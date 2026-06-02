@@ -1,6 +1,6 @@
 main {
     width:100%;
-    background: radial-gradient(circle , #EE82EE, white);
+    background: radial-gradient(circle , #7f3fe6, white);
     display: flex;
     font-family: "Poppins", sans-serif;
     font-weight: 250;
@@ -9,4 +9,8 @@ main {
     text-align:start;
     justify-content: center;
     color:#e3defe;
+}
+
+video {
+    padding: 0.5rem;
 }
