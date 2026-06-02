@@ -17,7 +17,7 @@ body {
 
 header {
     width: 100%;
-    background-color: #EE82EE;
+    background-color: #9309d3;
     font-family: "Poppins", sans-serif;
     font-weight: 100;
     font-style: normal;
@@ -26,13 +26,13 @@ header {
 
 footer {
     width:100%;
-    background-color:#EE82EE;
+    background-color:#eceefa;
     font-family: "Poppins", sans-serif;
     font-weight: 100;
     font-style: normal;
     text-align: center;
     font-size: 0.5rem;
-    color: white;
+    color: rgb(60, 11, 157);
     position:relative;
     bottom:0;
     left:0;
@@ -43,7 +43,7 @@ footer {
 h1 {
     font-size: 1rem;
     font-family: "Poppins", sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     font-style: italic;
     text-align: center;
 }
@@ -59,7 +59,7 @@ ul {
 a {
     text-decoration: none;
     font-size: 0.5rem;
-    color: white
+    color: rgb(60, 11, 157)
 }
 
 .redes-sociales {

@@ -1,13 +1,16 @@
 main {
     width:100%;
     background: radial-gradient(circle , #EE82EE, white);
-    display: grid;
-    grid-template-columns: 1fr;
+    display: flex;
     font-family: "Poppins", sans-serif;
     font-weight: 250;
     font-style: normal;
     font-size: 0.5rem;
     text-align:start;
-    color:#f107f1;
+    justify-content: space-evenly;
+    color:#e3defe;
 }
 
+section {
+
+}
